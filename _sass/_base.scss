@@ -42,6 +42,18 @@ img {
     vertical-align: middle;
 }
 
+#me {
+    float: left;
+    height: 150px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 50%;
+    border: 3px solid #f2f3f3;
+    opacity: 0.8;
+    &:hover {
+        opacity: 1;
+    }
+}
 
 /**
  * Figures
