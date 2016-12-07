@@ -42,3 +42,15 @@ Salim Bourougaa, Alban Derrien, <u>Axel Grimault</u>, Xavier Gandibleux, Anthony
 - **Method and device for switching an electromagnetic relay**<br>
 Yves Bony, Thierry Giorgetti, <u>Axel Grimault</u>, Jean-Philippe Querard, Atlantic Industrie<br>
 [EP2312598 A1](https://www.google.com/patents/EP2312598A1?cl=en)
+
+## Ph. D Thesis ##
+- **Optimisation de tournées de camions complets dans le secteur des travaux publics**<br>
+<u>Axel Grimault</u><br>
+École des Mines de Nantes, 2016<br>
+[tel-01343199](https://tel.archives-ouvertes.fr/tel-01343199)
+
+## Poster ##
+- **[Résolution d'un problème de collectes et livraisons en camions pleins dans le secteur des travaux publics]({{ site.url }}/files/JDOC2014_GRIMAULT.pdf)**<br>
+<u>Axel Grimault</u>, Nathalie Bostel, Fabien Lehuédé<br>
+**Best Poster Award 2014**<br>
+*Journée des doctorants*, École Doctorale STIM, 2014
