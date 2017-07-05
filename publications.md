@@ -7,7 +7,7 @@ permalink: /publications/
 ## Journal ##
 - **An Adaptive Large Neighborhood Search for the Full Truckload Pickup and Delivery Problem with Resource Synchronization**<br>
 <u>Axel Grimault</u>, Nathalie Bostel, Fabien Lehuédé<br>
-*Computers and Operations Research* (under review)
+*Computers and Operations Research* [doi: 10.1016/j.cor.2017.06.012](https://doi.org/10.1016/j.cor.2017.06.012)
 
 ## International Conferences ##
 - **Solving a full truckload pickup and delivery problem with resource synchronization with an adaptive large neighborhood search algorithm**<br>
