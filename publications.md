@@ -11,8 +11,8 @@ permalink: /publications/
 [doi: 10.1016/j.cor.2017.06.012](https://doi.org/10.1016/j.cor.2017.06.012)
 
 ## International Conferences ##
-- **A Variable Neighborhood Descent algorithm for the location of logistics facilities with mobile resources**
-Agri Permadi, <u>Axel Grimault</u>, Olivier Péton
+- **A Variable Neighborhood Descent algorithm for the location of logistics facilities with mobile resources**<br>
+Agri Permadi, <u>Axel Grimault</u>, Olivier Péton<br>
 *APIEMS 2017*, Yogyakarta, Indonesia, December 2017
 - **A strategic and tactical facility location problem with mobile equipment**<br>
 Agri Permadi, <u>Axel Grimault</u>, Olivier Péton<br>
