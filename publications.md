@@ -54,7 +54,7 @@ Yves Bony, Thierry Giorgetti, <u>Axel Grimault</u>, Jean-Philippe Querard, Atlan
 - **Optimisation de tournées de camions complets dans le secteur des travaux publics**<br>
 <u>Axel Grimault</u><br>
 École des Mines de Nantes, 2016<br>
-[tel-01343199](https://tel.archives-ouvertes.fr/tel-01343199)
+[tel-01343199](https://tel.archives-ouvertes.fr/tel-01343199) - [presentation]({{ site.url }}/files/PHD_DEFENSE_GRIMAULT.pdf)
 
 ## Poster ##
 - **[Résolution d'un problème de collectes et livraisons en camions pleins dans le secteur des travaux publics]({{ site.url }}/files/JDOC2014_GRIMAULT.pdf)**<br>
