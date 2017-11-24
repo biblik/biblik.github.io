@@ -4,6 +4,69 @@ title: Teaching
 permalink: /teaching/
 ---
 
+## 2017-2018 ##
+
+<table class="tableCourses">
+   <tr>
+      <th class="columnCourse">Course</th>
+      <th class="columnGrade">Grade</th>
+      <th class="columnUniversity">University</th>
+      <th class="columnVolume">Volume</th>
+      <th class="columnLanguage">Language</th>
+   </tr>
+   <tr>
+      <td>Introduction aux Techniques Décisionnelles</td>
+      <td>Ingénieur (bac +4)</td>
+      <td>Institut Mines Télécom Atlantique</td>
+      <td>27h</td>
+      <td>FR</td>
+   </tr>
+    <tr>
+      <td>Recherche Opérationnelle 3</td>
+      <td>Ingénieur (bac +5)</td>
+      <td>Institut Mines Télécom Atlantique</td>
+      <td>35h</td>
+      <td>FR</td>
+   </tr>
+    <tr>
+      <td>Exact Methods</td>
+      <td>Master 2</td>
+      <td>Institut Mines Télécom Atlantique</td>
+      <td>27h</td>
+      <td>EN</td>
+   </tr>
+    <tr>
+      <td>Programmation Linéaire</td>
+      <td>Ingénieur (bac +3)</td>
+      <td>Institut Mines Télécom Atlantique</td>
+      <td>10h</td>
+      <td>FR</td>
+   </tr>
+    <tr>
+      <td>Combinatorial Optimization</td>
+      <td>Master 1</td>
+      <td>Institut Mines Télécom Atlantique</td>
+      <td>16h</td>
+      <td>EN</td>
+   </tr>
+    <tr>
+      <td>Operations Research II</td>
+      <td>Master 1</td>
+      <td>Institut Mines Télécom Atlantique</td>
+      <td>21h</td>
+      <td>EN</td>
+   </tr>
+    <tr>
+      <td>Recherche Opérationnelle</td>
+      <td>Ingénieur (bac +4)</td>
+      <td>École Supérieure du Bois</td>
+      <td>20h</td>
+      <td>FR</td>
+   </tr>
+</table>
+
+<br>
+
 ## 2016-2017 ##
 
 <table class="tableCourses">
