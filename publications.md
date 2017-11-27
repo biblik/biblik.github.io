@@ -14,6 +14,9 @@ permalink: /publications/
 - **A Variable Neighborhood Descent algorithm for the location of logistics facilities with mobile resources**<br>
 Agri Permadi, <u>Axel Grimault</u>, Olivier Péton<br>
 *APIEMS 2017*, Yogyakarta, Indonesia, December 2017
+- **Joint location of facilities and mobile resources: an application to the sector of public works**<br>
+Agri Permadi, <u>Axel Grimault</u>, Olivier Péton<br>
+*IESM 2017*, Saarbrücken, Germany, October 2017
 - **A strategic and tactical facility location problem with mobile equipment**<br>
 Agri Permadi, <u>Axel Grimault</u>, Olivier Péton<br>
 *VeRoLog 2017*, Amsterdam, Netherlands, July 2017
