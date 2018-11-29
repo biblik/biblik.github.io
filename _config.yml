@@ -18,7 +18,8 @@ email: axel[.]grimault[at]gmail[.]com
 emailbis: axel[.]grimault[at]univ[-]angers[.]fr
 description: > # this means to ignore newlines until "baseurl:"
   Maître de Conférences </br>
-  IUT Angers-Cholet | Université d'Angers | Laboratoire LARIS </br>
+  IUT Angers-Cholet | Université d'Angers </br>
+  Laboratoire LARIS </br>
   4 boulevard Lavoisier, 49016 Angers
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
